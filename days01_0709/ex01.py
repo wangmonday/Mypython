@@ -1,0 +1,1 @@
+﻿printe（“hello world 无python 不编程”）
